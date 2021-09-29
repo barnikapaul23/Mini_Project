@@ -1,4 +1,4 @@
-# Mini_Project!
+# Mini_Project
 
 Mini Project-1 for CS201
 
